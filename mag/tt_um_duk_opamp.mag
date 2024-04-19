@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1713492000
+timestamp 1713493192
 << poly >>
 rect 17293 7100 18108 7202
 rect 18006 6660 18108 7100
@@ -174,7 +174,7 @@ rect 22480 0 22600 1716
 rect 26896 0 27016 2567
 rect 31312 0 31432 3618
 use opamp  opamp_0 ~/Desktop/opamp/layout
-timestamp 1713491752
+timestamp 1713493192
 transform 1 0 21146 0 1 8051
 box -5777 -4445 2796 16960
 << labels >>
